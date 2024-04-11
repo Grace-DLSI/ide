@@ -1,0 +1,30 @@
+.h{
+    position: relative;
+    border-style: solid;
+    text-align: center;
+    font-size: 25px;
+    border-width: 0;
+    color: #66ccff;
+}
+.tab{
+    font-size: 40px;
+    border-style: solid;
+    text-align: center;
+    border-width: 0;
+    top:0;
+    left: 0;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    margin: auto;
+    border-collapse: collapse;
+
+}
+a{
+    color: #66ccff;
+}
+tr,td,th{
+    border: #020f16 solid;
+    margin: 0;
+
+}
